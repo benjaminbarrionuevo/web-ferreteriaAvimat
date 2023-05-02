@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+  margin-right: 50px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.slide {
+  margin-top: 10px;
+}
+.slide img {
+  height: 65vh;
+}
+.logo-instagram {
+  margin-right: 90px;
+  margin-top: 30px;
+}
+.logo-facebook {
+  margin-right: 90px;
+  margin-top: 30px;
+}
+.logo-casita {
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+.logo-telefono {
+  margin-bottom: 10px;
+  margin-left: 40px;
+}
+.logo-email {
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.logo-cotizar {
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+.bg-curso {
+  background-color: #8540f5;
+}
